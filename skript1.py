@@ -1,1 +1,0 @@
-print('Ahoj studenti Pyhon Akademie')
